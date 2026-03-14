@@ -6,8 +6,6 @@ Perfect, Jani 👍
 Below is the **full README in clean GitHub Markdown format** so you can **copy-paste directly into `README.md`** in your repo. It is structured like **real ML production repos**, with headers, code blocks, and tables.
 
 ---
-
-```markdown
 # Healthcare Call Transcript Analysis & PHI De-Identification Pipeline
 
 **Author:** Jani Miya Shaik  
